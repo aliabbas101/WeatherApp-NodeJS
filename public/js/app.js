@@ -1,7 +1,3 @@
-console.log("Client Side javascript was loaded");
-
-
-
 const weatherForm = document.querySelector('form');
 const search=document.querySelector('input');
 const error= document.getElementsByClassName("error")[0];
